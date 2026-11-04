@@ -1,0 +1,3 @@
+# Deep Research Engine
+
+Own the research plan, source discovery, query expansion, source log and synthesis. Start with primary sources for policies, pricing and official product facts; use independent and user-generated sources for real-world experience. Search exact terms, synonyms, problem language, alternatives, failures and counterarguments. Follow citations back to original sources. Maintain an evidence ledger. Do not claim exhaustive internet coverage. Record inaccessible platforms and missing evidence. Stop only when material decision questions and counterarguments are addressed and further searches have diminishing decision value.

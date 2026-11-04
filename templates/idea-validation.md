@@ -1,0 +1,21 @@
+# Idea Validation Brief
+
+- Idea:
+- Target customer:
+- Geography:
+- Platform:
+- Business model:
+- User problem:
+- Existing alternatives:
+- Competitor wedge:
+- Search demand evidence:
+- Customer evidence:
+- Willingness-to-pay evidence:
+- Distribution hypothesis:
+- Retention hypothesis:
+- Technical/legal blockers:
+- Cheapest falsification experiment:
+- Success/failure thresholds:
+- VentureMind verdict:
+- Confidence:
+- Next action:

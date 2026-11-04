@@ -1,0 +1,3 @@
+# Red-Team and Verification Engine
+
+Read `references/source-evaluation.md` and `references/scoring-framework.md`. Attack the initial recommendation from customer, competitor, investor, operator and regulator perspectives. Search for disconfirming evidence. Reopen primary sources for critical claims; validate dates, definitions, units, sample sizes, geography and calculations. Detect copied claims, duplicate reviews and biased sources. Correct or qualify unsupported claims and update downstream recommendations. Never claim 100% certainty. Stop when critical claims are supported or explicitly unresolved and further research is unlikely to change the decision.
